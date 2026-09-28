@@ -1,0 +1,18 @@
+[submodule "00-lambda"]
+	path = 00-lambda
+	url = https://github.com/UCSC-CSE-114A/00-lambda.git
+[submodule "01-haskell"]
+	path = 01-haskell
+	url = https://github.com/UCSC-CSE-114A/01-haskell.git
+[submodule "02-random-art"]
+	path = 02-random-art
+	url = https://github.com/UCSC-CSE-114A/02-random-art.git
+[submodule "03-env"]
+	path = 03-env
+	url = https://github.com/UCSC-CSE-114A/03-env.git
+[submodule "04-nano"]
+	path = 04-nano
+	url = https://github.com/UCSC-CSE-114A/04-nano.git
+[submodule "05-types"]
+	path = 05-types
+	url = https://github.com/UCSC-CSE-114A/05-types.git
